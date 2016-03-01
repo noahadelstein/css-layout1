@@ -24,7 +24,8 @@ body {
 .box:last-child {
 }
 .main-content: {
-  100px;
+  
+padding-top:100px;
 }
 .box h2 {
 }
