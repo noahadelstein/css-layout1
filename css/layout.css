@@ -8,11 +8,18 @@ body {
 }
 
 .heading h1 {
+  position: fixed;
 }
 
-.box {
+.box1 {
+  float: left; width: 300px; margin: 10px; 
 }
-
+.box2 {
+  float: left; width: 300px; margin: 10px; 
+}
+.box3 {
+  float: left; width: 300px; margin: 10px; 
+}
 .box:last-child {
 }
 
@@ -21,13 +28,12 @@ body {
 
 .box img {
   border: 10px solid #3f2;
-  top: 10px;
-  left: 100px;
-  position: fixed;
+  
 }
 
 .box a.read-more {
 }
 
 .footer {
+  position: fixed;
 }
