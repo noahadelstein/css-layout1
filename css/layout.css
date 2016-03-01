@@ -13,14 +13,10 @@ body {
   z-index: 10;
 }
 
-.box1 {
+.box {
   float: left; width: 300px; margin: 10px; 
 }
-.box2 {
-  float: left; width: 300px; margin: 10px; 
-}
-.box3 {
-  float: left; width: 300px; margin: 10px; 
+
 }
 .box:last-child {
 }
