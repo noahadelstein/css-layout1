@@ -21,6 +21,7 @@ body {
 
 .box img {
   border: 10px solid #3f0;
+  position: relative;
   top: 10px;
   left: 100px;
 }
