@@ -20,10 +20,10 @@ body {
 }
 
 .box img {
-  border: 40px solid #3f2;
+  border: 10px solid #3f2;
   top: 10px;
   left: 100px;
-  position: relative;
+  position: absolute;
 }
 
 .box a.read-more {
